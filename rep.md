@@ -1,30 +1,21 @@
-# This is a large heading
+# Rohit
 
-## This is a smaller heading
+## Here's few line about myself
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Indore, in the state of Madhya Pradesh, in the India
 
-- This is
-- an unordered
-- list
+### Hobbies
 
-1. This is
-2. an ordered
-3. list
+- **Reading**
+- **Music**
+- **Cycling**
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+I mostly eat *home-made* food.
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Due to lockdown I am staying at home and learing new courses online.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+You can drop me mail at rohitkanthaliya.08@gmail.com to get in touch with me.
 
-nano README.md
+## Thanks for visiting. 
